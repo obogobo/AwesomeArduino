@@ -1,0 +1,28 @@
+################
+# JAVA IGNORES #
+################
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+######################
+# PROCESSING IGNORES #
+######################
+.DS_Store
+applet
+application.linux32
+application.linux64
+application.windows32
+application.windows64
+application.macosx
+
+# For people using INTELLIJ
+.idea/
+*.iml
+out/
+
+
+Processing/tweets.txt
